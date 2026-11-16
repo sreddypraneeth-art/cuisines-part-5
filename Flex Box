@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+       .Flex contaner {
+     display: flex;
+     width: 200px;
+     background-color: blue;
+     padding: 20px;
+    }
+
+   .flex contaner div {
+    width: 200px;
+    background-color: white;
+    margin: 5px;
+    padding: 5px;
+   }
+</style>
+</head>
+<body>
+
+   <div class="Flex contaner">
+    <div>1</div>
+    <div>2</div>
+    <div>3</div>
+   </div>
+
+</body>
+</html>
